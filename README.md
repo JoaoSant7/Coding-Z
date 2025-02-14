@@ -13,6 +13,6 @@ Estudar estas linguagens para criar uma base sólida.
 
 Vá atrás da documentação das tecnologias que você está estudando. 
 
- 
+Assistir Professor Vilson Junior
 
 Livros: JavaScript O Guia Definitivo 
